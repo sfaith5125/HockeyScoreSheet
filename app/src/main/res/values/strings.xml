@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">HockeyScoreSheet</string>
+    <string name="btn1_SOG">0</string>
+    <string name="btn2_SOF">0</string>
+    <string name="int_Team1_SOG">Visitor SOG</string>
+    <string name="int_Team2_SOG">Home SOG</string>
+
+    <string-array name="HomeVisitor">
+        <item>Home</item>
+        <item>Visitor</item>
+    </string-array>
+
+    <string-array name="Period">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="Penalty">
+        <item>Slashing</item>
+        <item>Cross Checking</item>
+        <item>Hooking</item>
+        <item>Roughing</item>
+        <item>Boarding</item>
+        <item>Interference</item>
+        <item>High Sticking</item>
+        <item>Fighting</item>
+        <item>Unsportsmanlike</item>
+        <item>To Many Men</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
